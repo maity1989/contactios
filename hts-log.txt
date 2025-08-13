@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Aug 2025 22:05:15 at https://contactiphone.vercel.app/?utm_term=&utm_gbraid=0Ce2Z9hihifhidGAi4kk67LfrKLQttT1&gclidW&gad_source=1&gad_campaignid=22850988478&gbraid=0AAAABA0rxyvJQUMhBelPA-7U-cFbUysp6&gclid=Cj0KCQjwzOvEBhDVARIsADHfJJQ_EY1K8w23B4ACCg6wh_k5_jh5paVXbF-mNJhy9elP-NQ7AZtJGYQaAgsLEALw_wcB +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://contactiphone.vercel.app/?utm_term=&utm_gbraid=0Ce2Z9hihifhidGAi4kk67LfrKLQttT1&gclidW&gad_source=1&gad_campaignid=22850988478&gbraid=0AAAABA0rxyvJQUMhBelPA-7U-cFbUysp6&gclid=Cj0KCQjwzOvEBhDVARIsADHfJJQ_EY1K8w23B4ACCg6wh_k5_jh5paVXbF-mNJhy9elP-NQ7AZtJGYQaAgsLEALw_wcB -O1 "C:\Users\user\Desktop\iPhon\iOS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 seconds : 2 links scanned, 1 files written (22560 bytes overall) [5983 bytes received at 5983 bytes/sec], 24052 bytes transferred using HTTP compression in 2 files, ratio 21%
+(No errors, 0 warnings, 0 messages)
